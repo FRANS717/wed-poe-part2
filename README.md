@@ -58,9 +58,11 @@ v1.1 – Added CSS styling & navigation bar.
 v1.2 – Implemented product gallery & shop filters.
 v1.3 – Added responsive design with media queries.
 v1.4 – Integrated enquiry & contact forms.
-v1.5 – Final polish: prices, cart updates, and README.
+v1.5 - Added greetings bot
+v1.6 – Final polish: prices, cart updates, and README.
 
  References
+Spline. (n.d.). HTML : https://app.spline.design/community/file/8cfb6748-f3dd-44dd-89fb-f46c7ab4186e
 
 W3Schools. (n.d.). HTML, CSS and JavaScript Tutorials : https://www.w3schools.com/
  
