@@ -74,4 +74,4 @@ Dhakar, L. (n.d.). Lightbox2 ://lokeshdhakar.com/projects/lightbox2/
  
 Dribbble. (n.d.). Web design inspiration: https://dribbble.com/
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/c67ff7c0-e5d2-41ef-b53c-8a1e7f4b8b74/deploy-status)](https://app.netlify.com/projects/wed-poe-part-2/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/00a078d6-1406-4575-8754-9a53e6fdfa5e/deploy-status)](https://app.netlify.com/projects/wed-poe-part-2-fd9fc6/deploys)
