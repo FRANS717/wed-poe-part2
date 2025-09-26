@@ -73,3 +73,5 @@ Font Awesome. (n.d.). Font Awesome Free Icons: https://fontawesome.com/icons
 Dhakar, L. (n.d.). Lightbox2 ://lokeshdhakar.com/projects/lightbox2/
  
 Dribbble. (n.d.). Web design inspiration: https://dribbble.com/
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c67ff7c0-e5d2-41ef-b53c-8a1e7f4b8b74/deploy-status)](https://app.netlify.com/projects/wed-poe-part-2/deploys)
